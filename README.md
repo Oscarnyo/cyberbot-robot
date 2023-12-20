@@ -32,7 +32,7 @@ Control the Cyberbot post-flashing for various movements and sensor-based action
 Contributions are welcome. Fork and submit pull requests.
 
 ## Acknowledgements
-Special thanks to Soon Wei, Hao Jie, and Jun Ting for their guidance and support in this project.
+Special thanks to Soon Wei, Hao Jie, and Jun Ting for their collaborations and support in this project.
 - Soowei: https://github.com/SwS651
 - Hao Jie: https://github.com/Mito8888
 - Jun Ting: https://github.com/Chen08-16
